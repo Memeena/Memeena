@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on HTML,CSS and JS
-- 🌱 I’m currently **learning React**
-- 👯 I’m looking to collaborate on Frontend Projects
+- 🌱 I’m currently **learning React,Node,js**
+- 👯 I’m looking to collaborate on Frontend web development Projects
 - 🤔 I’m looking for help with Learning React
 - 💬 Ask me about How to manage time with 2 superKids to upskill my career
 - 📫 How to reach me: Github
